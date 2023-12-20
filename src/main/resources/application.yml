@@ -1,0 +1,8 @@
+server:
+  port: 18080
+
+spring:
+  data:
+    redis:
+      host: pig-redis
+      port: 6379
